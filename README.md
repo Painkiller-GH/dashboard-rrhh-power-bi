@@ -1,30 +1,30 @@
-# Dashboard Análisis de RRHH - Proyecto Final
+# HR Analytics Dashboard - Final Project
 
-Dashboard desarrollado como proyecto del bootcamp de Data Analytics de Datahack (IBM).
-Analiza datos de 801 empleados incluyendo edad, antigüedad, categoría laboral y cuadro salarial 2020.
+Dashboard developed as a final project for the Data Analytics Bootcamp at Datahack (IBM).
+Analyzes data from 801 employees including age, seniority, job category, and salary overview for 2020.
 
 ## Dataset
-Fuente: Base de datos interna del caso práctico HRA (Datahack)
-Formato: Excel con 3 hojas de datos: empleados, evaluaciones y absentismo.
-Incluye datos demográficos, antigüedad, categoría laboral, salarios y métricas de evaluación.
+Source: HRA case study internal database (Datahack)
+Format: Excel file with 3 data sheets: employees, evaluations, and absenteeism.
+Includes demographic data, seniority, job category, salaries, and performance metrics.
 
-## Herramientas
+## Tools
 - Power BI Desktop
-- Power Query para limpieza y modelado de datos
-- DAX para métricas y KPIs calculados
+- Power Query for data cleaning and modeling
+- DAX for calculated metrics and KPIs
 
-## Páginas del dashboard
+## Dashboard Pages
 
-**Edad y Antigüedad:** edad media de 43,29 años y antigüedad media de 7,11 años.
-Desglose por sexo y por departamento. Filtros por categoría laboral y rango de edad.
+**Age and Seniority:** average age of 43.29 years and average seniority of 7.11 years.
+Breakdown by gender and department. Filters by job category and age range.
 
-**Cuadro Salarial:** masa salarial total de 5,54M€ para 247 empleados.
-Comparativa de salario inicial vs actual, distribución por sexo y rango salarial por categoría laboral.
+**Salary Overview:** total payroll of €5.54M for 247 employees.
+Comparison of starting vs. current salary, gender distribution, and salary range by job category.
 
-## Filtros globales
-Categoría laboral y rango salarial aplicables a todas las páginas.
+## Global Filters
+Job category and salary range applicable to all pages.
 
-## Capturas
+## Screenshots
 
-![Edad y Antigüedad](rrhh_edad.png)
-![Cuadro Salarial](rrhh_salarial.png)
+![Age and Seniority](rrhh_edad.png)
+![Salary Overview](rrhh_salarial.png)
